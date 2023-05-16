@@ -41,7 +41,7 @@ To follow along with this article, you need to have the following installed on y
 4. [Test our payment endpoint using Postman](#test-our-payment-endpoint)
 5. [Conclusion](#conclusion)
 
-# Getting Started
+## Getting Started
 
 ## Create a Stripe account <a name="create-a-stripe-account"></a>
 
